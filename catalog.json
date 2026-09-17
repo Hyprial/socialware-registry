@@ -1,0 +1,12 @@
+{
+  "gui": {
+    "git": "https://code.hyprial.com/HyprialOS/dsh-h2b-talk.git",
+    "manifest": "hyprial-install.json",
+    "ref": "gui-tested"
+  },
+  "kanban": {
+    "git": "https://code.hyprial.com/HyprialOS/kanban.git",
+    "manifest": "hyprial-install.json",
+    "ref": "main"
+  }
+}
